@@ -1,3 +1,5 @@
+# [TODO]: Have to github workflow to auto deploy application on EC2
+
 services:
   # Backend service
   backend:
